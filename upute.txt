@@ -1,0 +1,2 @@
+1. Pokretanje aplikacije s "npx nodemon app.js"
+2. Adresa http://localhost:3000/
